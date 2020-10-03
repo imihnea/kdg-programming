@@ -45,6 +45,19 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager">
+    <configuration name="Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a01.Age" />
+      <module name="M3_assign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -56,6 +69,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Age" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,6 +106,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1601736513734" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1601742759910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1601742759910" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1601742759910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1601742759910" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1601742759910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1601742759910" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1601742759910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1601742759910" />
     <state x="781" y="345" key="SettingsEditor" timestamp="1601736570670">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
