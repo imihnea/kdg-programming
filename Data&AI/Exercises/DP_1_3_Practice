@@ -1,0 +1,50 @@
+1.
+
+SELECT FIRST_NAME AS surname
+FROM CONTACTS
+WHERE LAST_NAME like 'Stone';
+
+Projection is the first part of the statement (FIRST_NAME) and selection is the last part (LAST_NAME).
+
+2.
+
+SELECT LAST_NAME AS "Client",
+       EMAIL AS "Email Address"
+FROM d_client;
+
+3.
+
+SELECT last_name, (salary + .50) *.05
+FROM f_staffs; 
+
+4.
+
+c.   SELECT * 
+
+5.
+
+a.  Payment = (car_cost * 1.25) + 5.00  - (tax)  - (license)  
+
+Why?
+
+6.
+
+Keywords: SELECT, FROM
+
+7.
+
+a. Selection
+b. Join
+c. Projection
+
+8.
+
+c.   null * .05 = null
+
+9.
+
+c. BEARS, COLOR, age
+
+10
+
+b.  SELECT and FROM
