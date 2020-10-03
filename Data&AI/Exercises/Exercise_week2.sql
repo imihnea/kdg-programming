@@ -1,0 +1,3 @@
+SELECT LAST_NAME AS "Client",
+       EMAIL AS "Email Address"
+FROM EMPLOYEES;
